@@ -1379,6 +1379,15 @@ body {
 .cid-qTFbi7ZCot .google-map .place-card {
   margin-left: 40px !important;
 }
+.cid-qTFbi7ZCot .adress-block {
+  text-align: center;
+}
+.cid-qTFbi7ZCot .mbr-section-subtitle {
+  text-align: center;
+}
+.cid-qTFbi7ZCot .mbr-section-title {
+  text-align: center;
+}
 .cid-qTFbepB2zG {
   padding-top: 60px;
   padding-bottom: 60px;
@@ -1722,16 +1731,16 @@ body {
   }
 }
 .cid-qTFisbEHz5 {
-  padding-top: 90px;
-  padding-bottom: 75px;
-  background-image: url("../../../assets/images/background6.jpg");
+  padding-top: 135px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/arabica-aromatic-beverage-678654-2000x1594.jpg");
 }
 .cid-qTFisbEHz5 .mbr-section-title {
   letter-spacing: 0.1em;
   text-align: center;
 }
 .cid-qTFisbEHz5 .mbr-section-subtitle {
-  color: #f9e2af;
+  color: #ffffff;
 }
 .cid-qTFisbEHz5 .image-wrap img {
   width: 100%;
@@ -1741,7 +1750,7 @@ body {
 }
 .cid-qTFisbEHz5 .tab-content {
   padding: 4rem 3rem 3rem 3rem;
-  border-top: 3px solid #f9e2af;
+  border-top: 3px solid #ffffff;
   -webkit-box-shadow: 0px 4px 26px -5px rgba(0, 0, 0, 0.2);
   -moz-box-shadow: 0px 4px 26px -5px rgba(0, 0, 0, 0.2);
   box-shadow: 0px 4px 26px -5px rgba(0, 0, 0, 0.2);
@@ -1779,11 +1788,11 @@ body {
   border: 0 !important;
 }
 .cid-qTFisbEHz5 .nav-tabs .nav-link:hover {
-  color: #f9e2af;
+  color: #ffffff;
   border: 0 !important;
 }
 .cid-qTFisbEHz5 .nav-tabs .nav-link.active {
-  color: #f9e2af;
+  color: #ffffff;
   border: 0 !important;
   background-color: transparent;
   position: relative;
