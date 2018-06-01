@@ -57,7 +57,7 @@
       }
     ],
     "versionFirst": "4.7.7",
-    "uniqCompNum": 55,
+    "uniqCompNum": 56,
     "versionPublish": "4.7.7",
     "favicon": "",
     "noImageResize": "",
@@ -3380,7 +3380,7 @@
             "paddingTop": 0,
             "paddingBottom": 0,
             "postToLoad": 3,
-            "facebook": "https://www.facebook.com/espressarcafe/",
+            "facebook": "espressarcafe",
             "twitter": "",
             "google": "",
             "youtube": "",
@@ -3397,7 +3397,7 @@
             "Extensión"
           ],
           "_name": "feed",
-          "_anchor": "feed-1i"
+          "_anchor": "feed-1j"
         },
         {
           "_styles": {
