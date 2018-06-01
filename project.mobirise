@@ -61,7 +61,7 @@
     "versionPublish": "4.7.7",
     "favicon": "",
     "noImageResize": "",
-    "google-analytics": "",
+    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-120028147-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-120028147-1');\r\n</script>\r\n",
     "siteUrl": "",
     "sitemapSwitcherAuto": "on",
     "screenshot": "screenshot.png"
@@ -1584,7 +1584,7 @@
     "eventos.html": {
       "settings": {
         "title": "Eventos",
-        "order": 4
+        "order": 3
       },
       "components": [
         {
@@ -2125,7 +2125,7 @@
     "menu.html": {
       "settings": {
         "title": "Menu",
-        "order": 3
+        "order": 1
       },
       "components": [
         {
@@ -2617,7 +2617,7 @@
     "nosotros.html": {
       "settings": {
         "title": "Nosotros",
-        "order": 2
+        "order": 4
       },
       "components": [
         {
@@ -3175,7 +3175,7 @@
     "ofertas.html": {
       "settings": {
         "title": "Ofertas",
-        "order": 1
+        "order": 2
       },
       "components": [
         {
