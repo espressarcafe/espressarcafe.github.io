@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "EspressarCafe",
-    "currentPage": "index.html",
+    "currentPage": "menu.html",
     "theme": {
       "name": "restaurantm4",
       "title": "RestaurantM4",
