@@ -57,7 +57,7 @@
       }
     ],
     "versionFirst": "4.7.7",
-    "uniqCompNum": 54,
+    "uniqCompNum": 55,
     "versionPublish": "4.7.7",
     "favicon": "",
     "noImageResize": "",
@@ -3397,7 +3397,7 @@
             "Extensión"
           ],
           "_name": "feed",
-          "_anchor": "feed-1d"
+          "_anchor": "feed-1i"
         },
         {
           "_styles": {
