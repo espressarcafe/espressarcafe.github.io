@@ -1,5 +1,6 @@
 @import url(https://fonts.googleapis.com/css?family=Leckerli+One:400);
 @import url(https://fonts.googleapis.com/css?family=Josefin+Sans:300,300i,400,400i,600,600i,700,700i);
+@import url(https://fonts.googleapis.com/css?family=Pacifico:400);
 @import url(https://fonts.googleapis.com/css?family=Cormorant+Upright:300,400,500,600,700);
 @import url(https://fonts.googleapis.com/css?family=Fredericka+the+Great:400);
 
@@ -45,7 +46,7 @@ body {
   font-size: 1.92rem;
 }
 .display-5 {
-  font-family: 'Cormorant Upright', serif;
+  font-family: 'Pacifico', handwriting;
   font-size: 1.8rem;
 }
 .display-5 > .mbr-iconfont {
@@ -1730,147 +1731,139 @@ body {
     height: auto;
   }
 }
-.cid-qTFisbEHz5 {
-  padding-top: 135px;
-  padding-bottom: 90px;
-  background-image: url("../../../assets/images/arabica-aromatic-beverage-678654-2000x1594.jpg");
+.cid-qTFJ5DywTJ {
+  padding-top: 120px;
+  padding-bottom: 120px;
+  background-image: url("../../../assets/images/11-1440x1080.jpg");
 }
-.cid-qTFisbEHz5 .mbr-section-title {
-  letter-spacing: 0.1em;
-  text-align: center;
+.cid-qTFJ5DywTJ .mbr-overlay {
+  background: #232323;
 }
-.cid-qTFisbEHz5 .mbr-section-subtitle {
+.cid-qTFJ5DywTJ .mbr-section-title {
+  letter-spacing: .5rem;
   color: #ffffff;
 }
-.cid-qTFisbEHz5 .image-wrap img {
-  width: 100%;
-}
-.cid-qTFisbEHz5 .mbr-desc {
-  width: 100%;
-}
-.cid-qTFisbEHz5 .tab-content {
-  padding: 4rem 3rem 3rem 3rem;
-  border-top: 3px solid #ffffff;
-  -webkit-box-shadow: 0px 4px 26px -5px rgba(0, 0, 0, 0.2);
-  -moz-box-shadow: 0px 4px 26px -5px rgba(0, 0, 0, 0.2);
-  box-shadow: 0px 4px 26px -5px rgba(0, 0, 0, 0.2);
-  background: #ffffff;
-}
-.cid-qTFisbEHz5 .nav {
-  border: none;
-}
-.cid-qTFisbEHz5 .nav-tabs {
-  -webkit-justify-content: center;
-  justify-content: center;
-  -webkit-flex-wrap: wrap;
-  flex-wrap: wrap;
-}
-.cid-qTFisbEHz5 .card-box {
-  align-items: baseline;
-}
-.cid-qTFisbEHz5 .card-box .mbr-price {
-  margin: 0;
-}
-.cid-qTFisbEHz5 .card-box .mbr-text {
-  line-height: 1;
-}
-.cid-qTFisbEHz5 .nav-tabs .nav-link {
-  box-sizing: border-box;
+.cid-qTFJ5DywTJ .mbr-section-title DIV {
   color: #ffffff;
-  font-style: normal;
-  font-weight: 500;
-  padding: .5rem 1rem;
-  margin: 0px;
-  margin-left: -0.5px;
-  margin-right: -0.5px;
-  margin-bottom: 1rem;
-  transition: all .5s;
-  border: 0 !important;
 }
-.cid-qTFisbEHz5 .nav-tabs .nav-link:hover {
-  color: #ffffff;
-  border: 0 !important;
+.cid-qTFJ5DywTJ .mbr-section-subtitle I {
+  color: #137ce1;
 }
-.cid-qTFisbEHz5 .nav-tabs .nav-link.active {
-  color: #ffffff;
-  border: 0 !important;
-  background-color: transparent;
-  position: relative;
+.cid-qTFJ5DywTJ .mbr-section-subtitle {
+  text-align: left;
 }
-@media (max-width: 767px) {
-  .cid-qTFisbEHz5 .container {
-    padding-left: 0rem;
-    padding-right: 0rem;
-  }
-}
-.cid-qTFIeoTzTI {
+.cid-qTFLCvmJ3I {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-color: #ffffff;
+  background-color: #6796c4;
 }
-.cid-qTFIeoTzTI *:focus {
+.cid-qTFLCvmJ3I *:focus {
   outline: none;
 }
-.cid-qTFIeoTzTI .input-wrap {
+.cid-qTFLCvmJ3I .input-wrap {
   padding-bottom: 1rem;
 }
-.cid-qTFIeoTzTI input,
-.cid-qTFIeoTzTI textarea {
+.cid-qTFLCvmJ3I input,
+.cid-qTFLCvmJ3I textarea {
   width: 100%;
-  background: #efefef;
+  background: #ffffff;
   border-radius: 0;
   border: none;
 }
-.cid-qTFIeoTzTI input {
+.cid-qTFLCvmJ3I input {
   padding: .5rem;
 }
-.cid-qTFIeoTzTI ::-webkit-input-placeholder {
+.cid-qTFLCvmJ3I ::-webkit-input-placeholder {
   color: #000000;
 }
-.cid-qTFIeoTzTI ::-moz-placeholder {
+.cid-qTFLCvmJ3I ::-moz-placeholder {
   color: #000000;
 }
-.cid-qTFIeoTzTI :-ms-input-placeholder {
+.cid-qTFLCvmJ3I :-ms-input-placeholder {
   color: #000000;
 }
-.cid-qTFIeoTzTI :-moz-placeholder {
+.cid-qTFLCvmJ3I :-moz-placeholder {
   color: #000000;
 }
-.cid-qTFIeoTzTI .soc-item {
+.cid-qTFLCvmJ3I .soc-item {
   display: inline-block;
   margin: 0 .1rem .2rem .1rem;
   padding: 10px 11px 0 11px;
-  border: 2px solid #69b9d0;
+  border: 2px solid #f9e2af;
   border-radius: 50%;
 }
-.cid-qTFIeoTzTI .soc-item:hover {
+.cid-qTFLCvmJ3I .soc-item:hover {
   opacity: .5;
 }
-.cid-qTFIeoTzTI .soc-item .socicon {
+.cid-qTFLCvmJ3I .soc-item .socicon {
   font-size: 1.5rem;
-  color: #69b9d0;
+  color: #f9e2af;
 }
-.cid-qTFIeoTzTI .days-column,
-.cid-qTFIeoTzTI .hours-column {
+.cid-qTFLCvmJ3I .days-column,
+.cid-qTFLCvmJ3I .hours-column {
   display: inline-block;
 }
-.cid-qTFIeoTzTI .days-column span,
-.cid-qTFIeoTzTI .hours-column span {
+.cid-qTFLCvmJ3I .days-column span,
+.cid-qTFLCvmJ3I .hours-column span {
   display: block;
 }
-.cid-qTFIeoTzTI .input-group-btn {
+.cid-qTFLCvmJ3I .input-group-btn {
   display: block;
 }
 @media (max-width: 767px) {
-  .cid-qTFIeoTzTI .days-column {
+  .cid-qTFLCvmJ3I .days-column {
     padding-right: 0 !important;
   }
-  .cid-qTFIeoTzTI .hours-column {
+  .cid-qTFLCvmJ3I .hours-column {
     max-width: 50% !important;
   }
-  .cid-qTFIeoTzTI .opening-hours {
+  .cid-qTFLCvmJ3I .opening-hours {
     padding-bottom: 48px !important;
   }
+}
+.cid-qTFLKLcYHs {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-qTFLKLcYHs .row {
+  justify-content: flex-end;
+  align-items: stretch;
+}
+.cid-qTFLKLcYHs .content-panel {
+  padding: 3rem;
+  background-color: #ffffff;
+}
+.cid-qTFLKLcYHs .text-block {
+  padding-right: 0;
+}
+.cid-qTFLKLcYHs .google-map {
+  width: 100%;
+  height: 30rem;
+  -webkit-filter: grayscale(100%);
+  -moz-filter: grayscale(100%);
+  -ms-filter: grayscale(100%);
+  -o-filter: grayscale(100%);
+  filter: gray;
+}
+.cid-qTFLKLcYHs .google-map iframe {
+  width: inherit;
+  height: 100%;
+}
+.cid-qTFLKLcYHs .google-map iframe .place-card {
+  margin-left: 40px !important;
+}
+.cid-qTFLKLcYHs .google-map .place-card {
+  margin-left: 40px !important;
+}
+.cid-qTFLKLcYHs .adress-block {
+  text-align: center;
+}
+.cid-qTFLKLcYHs .mbr-section-subtitle {
+  text-align: center;
+}
+.cid-qTFLKLcYHs .mbr-section-title {
+  text-align: center;
 }
 .cid-qTEWPC6lbA .nav-item:focus,
 .cid-qTEWPC6lbA .nav-link:focus {
@@ -2590,14 +2583,145 @@ body {
     height: auto;
   }
 }
-.cid-qTFJ5DywTJ {
-  padding-top: 120px;
-  padding-bottom: 120px;
-  background-image: url("../../../assets/images/background1.jpg");
+.cid-qTFisbEHz5 {
+  padding-top: 135px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/arabica-aromatic-beverage-678654-2000x1594.jpg");
 }
-.cid-qTFJ5DywTJ .mbr-overlay {
-  background: #232323;
+.cid-qTFisbEHz5 .mbr-section-title {
+  letter-spacing: 0.1em;
+  text-align: center;
 }
-.cid-qTFJ5DywTJ .mbr-section-title {
-  letter-spacing: .5rem;
+.cid-qTFisbEHz5 .mbr-section-subtitle {
+  color: #ffffff;
+}
+.cid-qTFisbEHz5 .image-wrap img {
+  width: 100%;
+}
+.cid-qTFisbEHz5 .mbr-desc {
+  width: 100%;
+}
+.cid-qTFisbEHz5 .tab-content {
+  padding: 4rem 3rem 3rem 3rem;
+  border-top: 3px solid #ffffff;
+  -webkit-box-shadow: 0px 4px 26px -5px rgba(0, 0, 0, 0.2);
+  -moz-box-shadow: 0px 4px 26px -5px rgba(0, 0, 0, 0.2);
+  box-shadow: 0px 4px 26px -5px rgba(0, 0, 0, 0.2);
+  background: #ffffff;
+}
+.cid-qTFisbEHz5 .nav {
+  border: none;
+}
+.cid-qTFisbEHz5 .nav-tabs {
+  -webkit-justify-content: center;
+  justify-content: center;
+  -webkit-flex-wrap: wrap;
+  flex-wrap: wrap;
+}
+.cid-qTFisbEHz5 .card-box {
+  align-items: baseline;
+}
+.cid-qTFisbEHz5 .card-box .mbr-price {
+  margin: 0;
+}
+.cid-qTFisbEHz5 .card-box .mbr-text {
+  line-height: 1;
+}
+.cid-qTFisbEHz5 .nav-tabs .nav-link {
+  box-sizing: border-box;
+  color: #ffffff;
+  font-style: normal;
+  font-weight: 500;
+  padding: .5rem 1rem;
+  margin: 0px;
+  margin-left: -0.5px;
+  margin-right: -0.5px;
+  margin-bottom: 1rem;
+  transition: all .5s;
+  border: 0 !important;
+}
+.cid-qTFisbEHz5 .nav-tabs .nav-link:hover {
+  color: #ffffff;
+  border: 0 !important;
+}
+.cid-qTFisbEHz5 .nav-tabs .nav-link.active {
+  color: #ffffff;
+  border: 0 !important;
+  background-color: transparent;
+  position: relative;
+}
+@media (max-width: 767px) {
+  .cid-qTFisbEHz5 .container {
+    padding-left: 0rem;
+    padding-right: 0rem;
+  }
+}
+.cid-qTFIeoTzTI {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-qTFIeoTzTI *:focus {
+  outline: none;
+}
+.cid-qTFIeoTzTI .input-wrap {
+  padding-bottom: 1rem;
+}
+.cid-qTFIeoTzTI input,
+.cid-qTFIeoTzTI textarea {
+  width: 100%;
+  background: #efefef;
+  border-radius: 0;
+  border: none;
+}
+.cid-qTFIeoTzTI input {
+  padding: .5rem;
+}
+.cid-qTFIeoTzTI ::-webkit-input-placeholder {
+  color: #000000;
+}
+.cid-qTFIeoTzTI ::-moz-placeholder {
+  color: #000000;
+}
+.cid-qTFIeoTzTI :-ms-input-placeholder {
+  color: #000000;
+}
+.cid-qTFIeoTzTI :-moz-placeholder {
+  color: #000000;
+}
+.cid-qTFIeoTzTI .soc-item {
+  display: inline-block;
+  margin: 0 .1rem .2rem .1rem;
+  padding: 10px 11px 0 11px;
+  border: 2px solid #69b9d0;
+  border-radius: 50%;
+}
+.cid-qTFIeoTzTI .soc-item:hover {
+  opacity: .5;
+}
+.cid-qTFIeoTzTI .soc-item .socicon {
+  font-size: 1.5rem;
+  color: #69b9d0;
+}
+.cid-qTFIeoTzTI .days-column,
+.cid-qTFIeoTzTI .hours-column {
+  display: inline-block;
+}
+.cid-qTFIeoTzTI .days-column span,
+.cid-qTFIeoTzTI .hours-column span {
+  display: block;
+}
+.cid-qTFIeoTzTI .input-group-btn {
+  display: block;
+}
+@media (max-width: 767px) {
+  .cid-qTFIeoTzTI .days-column {
+    padding-right: 0 !important;
+  }
+  .cid-qTFIeoTzTI .hours-column {
+    max-width: 50% !important;
+  }
+  .cid-qTFIeoTzTI .opening-hours {
+    padding-bottom: 48px !important;
+  }
 }
